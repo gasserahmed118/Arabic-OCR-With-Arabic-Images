@@ -10,10 +10,10 @@ Pytesseract is a Python wrapper for Google’s Tesseract OCR engine, one of the 
 
 ⚙️ How Pytesseract Works :
 
-Load the image and convert to RGB
-Preprocess if needed (resize, threshold, denoise)
-Call pytesseract.image_to_string()
-Split results into lines
+Load the image and convert to RGB , 
+Preprocess if needed (resize, threshold, denoise) , 
+Call pytesseract.image_to_string() , 
+Split results into lines , 
 Display text for each image
 
 EasyOCR is a deep-learning based OCR library uses as a deep learning detection and recognition model
@@ -22,9 +22,9 @@ EasyOCR is a deep-learning based OCR library uses as a deep learning detection a
 
 ⚙️ How EasyOCR Works:
 
-Load the OCR reader
-Pass an image to readtext()
-It returns: bounding box recognized text confidence score
+Load the OCR reader , 
+Pass an image to readtext() , 
+It returns: bounding box recognized text confidence score , 
 Optionally visualize the image
 
 Visualization : The details of the image is showen as each model detects them
