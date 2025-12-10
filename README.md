@@ -1,4 +1,4 @@
-📝 OCR Comparison: Pytesseract vs EasyOCR A project comparing the performance of two popular OCR engines on English text images.
+📝 OCR Comparison: Pytesseract vs EasyOCR A project comparing the performance of two popular OCR engines on Arabic text images.
 
 📌 Overview This project performs Optical Character Recognition (OCR) using two different libraries: Pytesseract – a Python wrapper for Google’s Tesseract OCR engine EasyOCR – a modern deep learning–based OCR library
 
